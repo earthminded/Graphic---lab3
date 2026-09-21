@@ -1,1 +1,2 @@
-# Graphic---lab3
+
+Для работы требуется установить Pillow: pip install Pillow
